@@ -1,0 +1,206 @@
+May 31, 2019 4:03:21 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 8.0.141 by JavaFX runtime of version 8.0.101
+May 31, 2019 4:03:22 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.2.Final}
+May 31, 2019 4:03:22 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+May 31, 2019 4:03:22 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+May 31, 2019 4:03:22 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/jdbc2?createDatabaseIfNotExist=true]
+May 31, 2019 4:03:22 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+May 31, 2019 4:03:22 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+May 31, 2019 4:03:22 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+May 31, 2019 4:03:22 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+May 31, 2019 4:03:22 PM org.hibernate.mapping.RootClass checkCompositeIdentifier
+WARN: HHH000038: Composite-id class does not override equals(): lk.ijse.pos.entity.OrderDetailPK
+May 31, 2019 4:03:22 PM org.hibernate.mapping.RootClass checkCompositeIdentifier
+WARN: HHH000039: Composite-id class does not override hashCode(): lk.ijse.pos.entity.OrderDetailPK
+May 31, 2019 4:03:23 PM org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl getIsolatedConnection
+INFO: HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@784eb82e] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+May 31, 2019 4:03:23 PM org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator initiateService
+INFO: HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+May 31, 2019 4:03:31 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 8.0.171 by JavaFX runtime of version 8.0.101
+May 31, 2019 4:20:20 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 8.0.141 by JavaFX runtime of version 8.0.101
+May 31, 2019 4:20:20 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.2.Final}
+May 31, 2019 4:20:20 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+May 31, 2019 4:20:20 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+May 31, 2019 4:20:20 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/jdbc2?createDatabaseIfNotExist=true]
+May 31, 2019 4:20:20 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+May 31, 2019 4:20:20 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+May 31, 2019 4:20:20 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+May 31, 2019 4:20:21 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+May 31, 2019 4:20:21 PM org.hibernate.mapping.RootClass checkCompositeIdentifier
+WARN: HHH000038: Composite-id class does not override equals(): lk.ijse.pos.entity.OrderDetailPK
+May 31, 2019 4:20:21 PM org.hibernate.mapping.RootClass checkCompositeIdentifier
+WARN: HHH000039: Composite-id class does not override hashCode(): lk.ijse.pos.entity.OrderDetailPK
+May 31, 2019 4:20:21 PM org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl getIsolatedConnection
+INFO: HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@784eb82e] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+May 31, 2019 4:20:21 PM org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator initiateService
+INFO: HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+May 31, 2019 4:20:28 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 8.0.171 by JavaFX runtime of version 8.0.101
+May 31, 2019 4:20:33 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 8.0.141 by JavaFX runtime of version 8.0.101
+May 31, 2019 4:41:21 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 8.0.141 by JavaFX runtime of version 8.0.101
+May 31, 2019 4:41:21 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.2.Final}
+May 31, 2019 4:42:33 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 8.0.141 by JavaFX runtime of version 8.0.101
+May 31, 2019 4:42:33 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.2.Final}
+May 31, 2019 4:43:06 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 8.0.141 by JavaFX runtime of version 8.0.101
+May 31, 2019 4:43:07 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.2.Final}
+May 31, 2019 4:43:07 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+May 31, 2019 4:43:07 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+May 31, 2019 4:43:07 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/jdbc2?createDatabaseIfNotExist=true]
+May 31, 2019 4:43:07 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+May 31, 2019 4:43:07 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+May 31, 2019 4:43:07 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+May 31, 2019 4:43:07 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+May 31, 2019 4:43:07 PM org.hibernate.mapping.RootClass checkCompositeIdentifier
+WARN: HHH000038: Composite-id class does not override equals(): lk.ijse.pos.entity.OrderDetailPK
+May 31, 2019 4:43:07 PM org.hibernate.mapping.RootClass checkCompositeIdentifier
+WARN: HHH000039: Composite-id class does not override hashCode(): lk.ijse.pos.entity.OrderDetailPK
+May 31, 2019 4:43:08 PM org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl getIsolatedConnection
+INFO: HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@66f3b1f4] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+May 31, 2019 4:43:08 PM org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator initiateService
+INFO: HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+May 31, 2019 4:43:14 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 8.0.171 by JavaFX runtime of version 8.0.101
+Jun 03, 2019 12:03:28 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 8.0.141 by JavaFX runtime of version 8.0.101
+Jun 03, 2019 12:03:29 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.2.Final}
+Jun 03, 2019 12:03:29 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+Jun 03, 2019 12:03:30 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+Jun 03, 2019 12:03:30 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/jdbc2?createDatabaseIfNotExist=true]
+Jun 03, 2019 12:03:30 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root, password=****}
+Jun 03, 2019 12:03:30 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+Jun 03, 2019 12:03:30 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+Jun 03, 2019 12:03:31 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+Jun 03, 2019 12:03:32 PM org.hibernate.mapping.RootClass checkCompositeIdentifier
+WARN: HHH000038: Composite-id class does not override equals(): lk.ijse.pos.entity.OrderDetailPK
+Jun 03, 2019 12:03:32 PM org.hibernate.mapping.RootClass checkCompositeIdentifier
+WARN: HHH000039: Composite-id class does not override hashCode(): lk.ijse.pos.entity.OrderDetailPK
+Jun 03, 2019 12:03:33 PM org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl getIsolatedConnection
+INFO: HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@42e7b316] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+Jun 03, 2019 12:03:33 PM org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator initiateService
+INFO: HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Jun 03, 2019 1:43:14 PM org.springframework.context.support.AbstractApplicationContext refresh
+WARNING: Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'customerBOImpl': Unsatisfied dependency expressed through field 'customerDAO'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'customerDAOImpl': Unsatisfied dependency expressed through field 'sessionFactory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sessionFactory' defined in class path resource [lk/ijse/pos/main/HibernateConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.orm.hibernate5.LocalSessionFactoryBean]: Factory method 'sessionFactory' threw exception; nested exception is java.lang.IllegalStateException: Required key '' not found
+Jun 03, 2019 1:44:36 PM org.springframework.context.support.AbstractApplicationContext refresh
+WARNING: Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'customerBOImpl': Unsatisfied dependency expressed through field 'customerDAO'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'customerDAOImpl': Unsatisfied dependency expressed through field 'sessionFactory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sessionFactory' defined in class path resource [lk/ijse/pos/main/HibernateConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.orm.hibernate5.LocalSessionFactoryBean]: Factory method 'sessionFactory' threw exception; nested exception is java.lang.IllegalStateException: Required key 'org.hibernate.dialect.MySQL57Dialect' not found
+Jun 03, 2019 1:44:44 PM org.springframework.context.support.AbstractApplicationContext refresh
+WARNING: Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'customerBOImpl': Unsatisfied dependency expressed through field 'customerDAO'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'customerDAOImpl': Unsatisfied dependency expressed through field 'sessionFactory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sessionFactory' defined in class path resource [lk/ijse/pos/main/HibernateConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.orm.hibernate5.LocalSessionFactoryBean]: Factory method 'sessionFactory' threw exception; nested exception is java.lang.IllegalStateException: Required key 'org.hibernate.dialect.MySQL57Dialect' not found
+Jun 03, 2019 1:46:51 PM org.springframework.context.support.AbstractApplicationContext refresh
+WARNING: Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'customerBOImpl': Unsatisfied dependency expressed through field 'customerDAO'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'customerDAOImpl': Unsatisfied dependency expressed through field 'sessionFactory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sessionFactory' defined in class path resource [lk/ijse/pos/main/HibernateConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.orm.hibernate5.LocalSessionFactoryBean]: Factory method 'sessionFactory' threw exception; nested exception is java.lang.IllegalStateException: Required key 'org.hibernate.dialect.MySQL57Dialect' not found
+Jun 03, 2019 1:47:39 PM org.springframework.context.support.AbstractApplicationContext refresh
+WARNING: Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'customerBOImpl': Unsatisfied dependency expressed through field 'customerDAO'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'customerDAOImpl': Unsatisfied dependency expressed through field 'sessionFactory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sessionFactory' defined in class path resource [lk/ijse/pos/main/HibernateConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.orm.hibernate5.LocalSessionFactoryBean]: Factory method 'sessionFactory' threw exception; nested exception is java.lang.IllegalStateException: Required key 'org.hibernate.dialect.MySQL57Dialect' not found
+Jun 03, 2019 1:48:00 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.2.Final}
+Jun 03, 2019 1:48:00 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+Jun 03, 2019 1:48:01 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+Jun 03, 2019 1:48:01 PM org.hibernate.mapping.RootClass checkCompositeIdentifier
+WARN: HHH000038: Composite-id class does not override equals(): lk.ijse.pos.entity.OrderDetailPK
+Jun 03, 2019 1:48:01 PM org.hibernate.mapping.RootClass checkCompositeIdentifier
+WARN: HHH000039: Composite-id class does not override hashCode(): lk.ijse.pos.entity.OrderDetailPK
+Jun 03, 2019 1:48:02 PM org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator initiateService
+INFO: HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Jun 03, 2019 1:48:13 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.2.Final}
+Jun 03, 2019 1:48:14 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+Jun 03, 2019 1:48:14 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+Jun 03, 2019 1:48:14 PM org.hibernate.mapping.RootClass checkCompositeIdentifier
+WARN: HHH000038: Composite-id class does not override equals(): lk.ijse.pos.entity.OrderDetailPK
+Jun 03, 2019 1:48:14 PM org.hibernate.mapping.RootClass checkCompositeIdentifier
+WARN: HHH000039: Composite-id class does not override hashCode(): lk.ijse.pos.entity.OrderDetailPK
+Jun 03, 2019 1:48:15 PM org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator initiateService
+INFO: HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Jun 03, 2019 1:48:17 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 8.0.141 by JavaFX runtime of version 8.0.101
+Jun 03, 2019 1:48:24 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 8.0.171 by JavaFX runtime of version 8.0.101
+Jun 03, 2019 1:51:02 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.2.Final}
+Jun 03, 2019 1:51:02 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+Jun 03, 2019 1:51:02 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+Jun 03, 2019 1:51:02 PM org.hibernate.mapping.RootClass checkCompositeIdentifier
+WARN: HHH000038: Composite-id class does not override equals(): lk.ijse.pos.entity.OrderDetailPK
+Jun 03, 2019 1:51:02 PM org.hibernate.mapping.RootClass checkCompositeIdentifier
+WARN: HHH000039: Composite-id class does not override hashCode(): lk.ijse.pos.entity.OrderDetailPK
+Jun 03, 2019 1:51:03 PM org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator initiateService
+INFO: HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Jun 03, 2019 1:51:05 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 8.0.141 by JavaFX runtime of version 8.0.101
+Jun 03, 2019 1:51:40 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 8.0.171 by JavaFX runtime of version 8.0.101
+Jun 03, 2019 3:42:48 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.2.Final}
+Jun 03, 2019 3:42:48 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+Jun 03, 2019 3:42:49 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+Jun 03, 2019 3:42:49 PM org.hibernate.mapping.RootClass checkCompositeIdentifier
+WARN: HHH000038: Composite-id class does not override equals(): lk.ijse.pos.entity.OrderDetailPK
+Jun 03, 2019 3:42:49 PM org.hibernate.mapping.RootClass checkCompositeIdentifier
+WARN: HHH000039: Composite-id class does not override hashCode(): lk.ijse.pos.entity.OrderDetailPK
+Jun 03, 2019 3:42:50 PM org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator initiateService
+INFO: HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Jun 03, 2019 3:42:52 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 8.0.141 by JavaFX runtime of version 8.0.101
+Jun 04, 2019 12:05:05 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.4.2.Final}
+Jun 04, 2019 12:05:06 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+Jun 04, 2019 12:05:06 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+Jun 04, 2019 12:05:06 PM org.hibernate.mapping.RootClass checkCompositeIdentifier
+WARN: HHH000038: Composite-id class does not override equals(): lk.ijse.pos.entity.OrderDetailPK
+Jun 04, 2019 12:05:06 PM org.hibernate.mapping.RootClass checkCompositeIdentifier
+WARN: HHH000039: Composite-id class does not override hashCode(): lk.ijse.pos.entity.OrderDetailPK
+Jun 04, 2019 12:05:07 PM org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator initiateService
+INFO: HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Jun 04, 2019 12:05:09 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 8.0.141 by JavaFX runtime of version 8.0.101
+Jun 04, 2019 12:05:17 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 8.0.171 by JavaFX runtime of version 8.0.101
+Jun 04, 2019 12:05:20 PM javafx.fxml.FXMLLoader$ValueElement processValue
+WARNING: Loading FXML document with JavaFX API of version 8.0.141 by JavaFX runtime of version 8.0.101
